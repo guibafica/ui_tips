@@ -103,3 +103,13 @@ Tipos expressam sentimentos, emoções e precisam ser no mínimo legíveis.
 > Roboto Condensed, usada para Destaque, Chamadas e Título.
 > Roboto, Corpo de texto.
 > Roboto Slab, Estilos em geral.
+
+### Títulos e textos.
+Perfect Fifth, O perfeito 1,5.
+Esse é um padrão modular para escalar tipografias hierarquicamente. Você vai pegar o tamanho da fonte de texto base e multiplicar por 1,5.
+- Chamada: 80pt;
+- Título principal: 54pt;
+- Subtítulo: 36pt;
+- Título secundário: 24pt;
+- Texto base: 16pt || 18pt;
+- Complemento: 12pt;
