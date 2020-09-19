@@ -112,4 +112,15 @@ Esse é um padrão modular para escalar tipografias hierarquicamente. Você vai 
 - Subtítulo: 36pt;
 - Título secundário: 24pt;
 - Texto base: 16pt || 18pt;
-- Complemento: 12pt;
+- Complemento: 12pt || 14pt;
+
+### Cores e círculos cromático.
+São uma parte fundamental da interface.
+Elas afetam nosso comportamento e decisões em ações online, transmitem emoções, sensações, dão destaque e chamam a atenção.
+> Alguns tipos de combinações existentes: Complementary, Analogous, Triadic, Split-Complementary, Square...
+
+
+
+
+
+Made with 💜 by [Guilherme Bafica](https://github.com/guibafica) 👋 
