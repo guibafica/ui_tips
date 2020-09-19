@@ -121,12 +121,12 @@ Elas afetam nosso comportamento e decisões em ações online, transmitem emoç�
 
 ## Criando uma paleta de cores.
 Para criar uma paleta de cores eficiente, precisamos entender como funciona o círculo cromático e a teoria das cores!
-  > Pode ser usada a técnica 60-30-10.
+  > Pode ser usada a técnica 60-30-10:
   `60%` -> Background "light-theme" || "dark-theme";
   `30%` -> Textos;
   `10%` -> Colocada em locais que precisam chamar a atenção do usuário;
 
-
+Cores mais claras dão a sensação de estarem acima dos demais elementos, uma sucinta sensação de 3D.
 
 
 Made with 💜 by [Guilherme Bafica](https://github.com/guibafica) 👋 
