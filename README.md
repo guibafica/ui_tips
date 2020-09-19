@@ -61,4 +61,45 @@ Deve entregar informações de forma que o usuário/pessoas não gastem energia 
 - Visualmente atrativo;
 - Conteúdo relevante.
 
-# "Se você acha que um bom design é caro, deveria considerar o custo do mau design. Dr Ralph Speshc."
+> "Se você acha que um bom design é caro, deveria considerar o custo do mau design. Dr Ralph Speshc."
+
+
+# Técnicas:
+### A técnica dos 8 pontos.
+Boas interfaces são construídas por `hierarquias.` Do maior para o menor, elas levam o usuário até onde ele precisa.
+`Multiplique 8, sempre por 8.`
+
+### Grid na interface.
+O grid é de extrema importância para criar alinhamento e harmonia na interface. Ele vai te ajudar a criar blocos de texto e imagens.
+`Desktop`
+- 1440;
+- Count: 12;
+- Width: 64;
+- Gutter: 32.
+
+`Tablet`
+- 768;
+- Count: 8;
+- Width: 56;
+- Gutter: 32.
+
+`Mobile Android`
+- 360;
+- Count: 4;
+- Width: 56;
+- Gutter: 16.
+
+`Mobile iOS`
+- 375;
+- Count: 6;
+- Width: 41;
+- Gutter: 16.
+
+### Tipografia.
+Existe uma complexidade bem grande por trás da tipografia. Seria justo dizer que a utilização dos tipos é a parte mais difícil da UI Design.
+
+Tipos expressam sentimentos, emoções e precisam ser no mínimo legíveis.
+> Dicas de fonte: 
+> Roboto Condensed, usada para Destaque, Chamadas e Título.
+> Roboto, Corpo de texto.
+> Roboto Slab, Estilos em geral.
