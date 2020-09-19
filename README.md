@@ -119,6 +119,12 @@ São uma parte fundamental da interface.
 Elas afetam nosso comportamento e decisões em ações online, transmitem emoções, sensações, dão destaque e chamam a atenção.
 > Alguns tipos de combinações existentes: Complementary, Analogous, Triadic, Split-Complementary, Square...
 
+## Criando uma paleta de cores.
+Para criar uma paleta de cores eficiente, precisamos entender como funciona o círculo cromático e a teoria das cores!
+  > Pode ser usada a técnica 60-30-10.
+  `60%` -> Background "light-theme" || "dark-theme";
+  `30%` -> Textos;
+  `10%` -> Colocada em locais que precisam chamar a atenção do usuário;
 
 
 
