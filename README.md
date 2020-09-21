@@ -128,5 +128,14 @@ Para criar uma paleta de cores eficiente, precisamos entender como funciona o c�
 
 Cores mais claras dão a sensação de estarem acima dos demais elementos, uma sucinta sensação de 3D.
 
+## Ícones.
+Importantes para reforçar a comunicação de determinado texto na interface.
+Nossos olhos interpretam símbolos e imagens mais rápido que textos.
+(Repo de Ícones para ReactNative)[https://github.com/oblador/react-native-vector-icons]
+> É importante usar o mesmo pacote de ícones para manter o padrão.
+Sugestões de pacotes:
+- Finos e elegantes -> feathericons.com
+- Cheios e imponentes -> material.io/resources/icons
+- Personalizados -> flaticon.com 
 
 Made with 💜 by [Guilherme Bafica](https://github.com/guibafica) 👋 
