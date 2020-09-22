@@ -145,4 +145,8 @@ Sugestões de sites:
 - Pago, porém um universo de opções -> shutterstock.com
 - Pago e um pouco limitado -> elements.envato.com
 
+### Atomic Design.
+Metodologia que nos ajuda a pensar na interface do usuário de maneira hierarquica. 
+O Atomic Design detalha o que acontece durante a criação e manutenção de sistemas de design, permitindo mais consistência e qualidade.
+
 Made with 💜 by [Guilherme Bafica](https://github.com/guibafica) 👋 
